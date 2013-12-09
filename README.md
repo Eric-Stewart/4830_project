@@ -3,7 +3,12 @@
 
 Project for stochastic 4830 Fall 2013 
 
-Team: Stochastic Static!
+Team: 
+- Eric Stewart
+- Yajie Ding
+- Yunyan Guo
+- Quan Cai
+
 
 Create stock dropdown menu
 
